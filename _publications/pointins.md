@@ -2,7 +2,7 @@
 title: "Pointins: point-based instance segmentation"
 collection: publications
 permalink: /publications/pointins
-excerpt: 'This paper gives a approach to conduct instance segmentation from point-based features.<br/><img src='/images/500x300.png''
+excerpt: 'This paper gives a approach to conduct instance segmentation from point-based features.'
 date: 2021-01-01
 venue: 'TPAMI'
 paperurl: 'https://arxiv.org/abs/2003.06148'

@@ -2,7 +2,7 @@
 title: "VCNet: a robust approach to blind image inpainting"
 collection: publications
 permalink: /publications/blindinpainting
-excerpt: 'This paper gives a first relatively generalized blind-inpainting method.<br/><img src='/images/500x300.png''
+excerpt: 'This paper gives a first relatively generalized blind-inpainting method.'
 date: 2020-01-01
 venue: 'ECCV'
 paperurl: 'https://openreview.net/pdf?id=B8II-BEdx9'
