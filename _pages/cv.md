@@ -7,15 +7,19 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Biography
+======
+I did my Ph.D. at CSE of The Chinese University of Hong Kong, supervised by Prof. [Jiaya Jia](https://jiaya.me/) and Prof. [Liwei Wang](https://lwwangcse.github.io/).  My research interests include computer vision and deep learning, especially image generation and related applications. Before that, I got the M.Sc. degree from Peking University (supervised by Prof. Yuexian Zou).
+
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Vision, The Chinese University of Hong Kong, 2021
+* M.S. in Computer Applied Technology, Peking University, 2017
+* B.S. in Computer Science, Northwest A&F University, 2014
 
-Work experience
+
+Research Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -26,17 +30,8 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -54,6 +49,18 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Academic Service
 ======
-* Currently signed in to 43 different slack teams
+* Serve as a reviewer in multiple conferences / journals
+	* Conference: CVPR(18,19,20,21), ECCV(18,20), ICCV(19,21), ICLR(22), Siggraph Asia(22)
+	* Journals: IJCV, TIP, CVIU, TMM, TCP
+
+Awards & Honors
+======
+* Postgraduate Studentship in CUHK, 2017-2021
+* Beijing/PKU Outstanding Graduate Award, 2017
+* PKU Outstanding Master Thesis Award, 2017
+* National Scholarship, 2011/2015/2016
+* Northwest A&F University Outstanding Graduate Award, 2014
+* Northwest A&F University Outstanding Bachelor Thesis Award, 2014
+* President Scholarship at Northwest A&F University, 2012

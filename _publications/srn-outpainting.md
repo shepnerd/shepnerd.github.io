@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/srn-outpainting
 excerpt: 'This paper gives a first GAN-based solution to image outpainting.'
 date: 2019-01-01
-venue: 'Journal 1'
+venue: 'CVPR'
 paperurl: 'http://jiaya.me/papers/imgextrapolation_cvpr19.pdf'
 citation: '@inproceedings{wang2019wide,
   title={Wide-context semantic image extrapolation},

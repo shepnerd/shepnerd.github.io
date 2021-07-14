@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/gmc-inpainting
 excerpt: 'This paper gives a multiple-branch generative net for generative inpainting, along with a non-local regularization.<br/><img src='/images/500x300.png''
 date: 2018-01-01
-venue: 'Journal 1'
+venue: 'NeurIPS'
 paperurl: 'http://papers.nips.cc/paper/7316-image-inpainting-via-generative-multi-column-convolutional-neural-networks.pdf'
 citation: '@inproceedings{wang2018image,
   title={Image inpainting via generative multi-column convolutional neural networks},
