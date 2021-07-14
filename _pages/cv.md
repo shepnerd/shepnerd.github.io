@@ -21,15 +21,15 @@ Education
 
 Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019.06-2019.12: Research Intern
+  * MEGVII Technology
+  * Duties included: Studying conditional image generation
+  * Supervisor: Dr. Xiangyu Zhang and Prof. Jian Sun
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018.07-2019.05: Research Intern
+  * Tencent YouTu Lab
+  * Duties included: Studying image generation and enhancement
+  * Supervisor: Dr. Xin Tao and Dr. Xiaoyong Shen
 
 Selected Publications
 ======

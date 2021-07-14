@@ -1,7 +1,7 @@
 ---
 title: "Multi-Scale aligned distillation for low-resolution detection"
 collection: publications
-permalink: /publication/msad
+permalink: /publications/msad
 excerpt: 'This paper gives a method to detect objects using low-resolution instead of high-resolution image.<br/><img src='/images/500x300.png''
 date: 2021-01-01
 venue: 'CVPR'

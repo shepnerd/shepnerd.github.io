@@ -1,7 +1,7 @@
 ---
 title: "Attentive normalization for conditional image generation"
 collection: publications
-permalink: /publication/attn-norm
+permalink: /publications/attn-norm
 excerpt: 'This paper gives a first normalization-based long-range characterization module for image generation.<br/><img src='/images/500x300.png''
 date: 2020-01-01
 venue: 'CVPR'

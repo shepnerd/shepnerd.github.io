@@ -1,7 +1,7 @@
 ---
 title: "Image inpainting via generative multi-column convolutional neural networks"
 collection: publications
-permalink: /publication/gmc-inpainting
+permalink: /publications/gmc-inpainting
 excerpt: 'This paper gives a multiple-branch generative net for generative inpainting, along with a non-local regularization.<br/><img src='/images/500x300.png''
 date: 2018-01-01
 venue: 'NeurIPS'

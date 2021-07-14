@@ -1,7 +1,7 @@
 ---
 title: "Wide-context semantic image extrapolation"
 collection: publications
-permalink: /publication/srn-outpainting
+permalink: /publications/srn-outpainting
 excerpt: 'This paper gives a first GAN-based solution to image outpainting.'
 date: 2019-01-01
 venue: 'CVPR'

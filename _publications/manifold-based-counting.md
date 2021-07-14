@@ -1,7 +1,7 @@
 ---
 title: "Manifold-based visual object counting"
 collection: publications
-permalink: /publication/Manifold-based-counting
+permalink: /publications/Manifold-based-counting
 excerpt: 'This paper studies a fast and robust approach for general object counting.<br/><img src='/images/500x300.png'>'
 date: 2018-01-01
 venue: 'TIP'
