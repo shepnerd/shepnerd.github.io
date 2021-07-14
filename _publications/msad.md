@@ -7,7 +7,7 @@ date: 2021-01-01
 venue: 'CVPR'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2021/papers/Qi_Multi-Scale_Aligned_Distillation_for_Low-Resolution_Detection_CVPR_2021_paper.pdf'
 authors: Lu Qi*, Jason Kuen*, Jiuxiang Gu, Zhe Lin, <strong>Yi Wang</strong>, Yukang Chen, Yanwei Li, Jiaya Jia
-code:
+code: 'https://github.com/dvlab-research/MSAD'
 supp:
 slides:
 video:

@@ -7,8 +7,8 @@ date: 2019-01-01
 venue: 'CVPR'
 paperurl: 'http://jiaya.me/papers/imgextrapolation_cvpr19.pdf'
 authors: <strong>Yi Wang</strong>, Xin Tao, Xiaoyong Shen, Jiaya Jia
-code:
-supp:
+code: 'https://github.com/shepnerd/outpainting_srn'
+supp: 'https://drive.google.com/file/d/1r9YUkrsT35_EtAMiS4v6yal6Hl2GGH3o/view?usp=sharing'
 slides:
 video:
 bib: '@inproceedings{wang2019wide,

@@ -7,9 +7,10 @@ date: 2018-01-01
 venue: 'NeurIPS'
 paperurl: 'http://papers.nips.cc/paper/7316-image-inpainting-via-generative-multi-column-convolutional-neural-networks.pdf'
 authors: <strong>Yi Wang</strong>, Xin Tao, Xiaojuan Qi, Xiaoyong Shen, Jiaya Jia
-code:
-supp:
+code: 'https://github.com/shepnerd/inpainting_gmcnn'
+supp: 'https://drive.google.com/file/d/1uzYgpiCkENTqW-Yy-AriHXH0wUidi3KY/view'
 slides:
+poster: ''
 video:
 bib: '@inproceedings{wang2018image,
   title={Image inpainting via generative multi-column convolutional neural networks},

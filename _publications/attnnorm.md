@@ -7,10 +7,10 @@ date: 2020-01-01
 venue: 'CVPR'
 paperurl: 'https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Attentive_Normalization_for_Conditional_Image_Generation_CVPR_2020_paper.pdf'
 authors: <strong>Yi Wang</strong>, Ying-Cong Chen, Xiangyu Zhang, Jian Sun, Jiaya Jia
-code:
-supp:
+code: 'https://github.com/shepnerd/AttenNorm'
+supp: 'https://github.com/shepnerd/AttenNorm/blob/master/media/00213-supp.pdf'
 slides:
-video:
+video: 'https://drive.google.com/file/d/1o9NDA7jg7Nd8mV3ZUbQJLEUFEirCiUi0/view?usp=sharing'
 bib: '@inproceedings{wang2020attentive,
   title={Attentive normalization for conditional image generation},
   author={Wang, Yi and Chen, Ying-Cong and Zhang, Xiangyu and Sun, Jian and Jia, Jiaya},

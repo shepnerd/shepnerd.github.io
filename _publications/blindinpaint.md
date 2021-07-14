@@ -7,8 +7,8 @@ date: 2020-01-01
 venue: 'ECCV'
 paperurl: 'https://openreview.net/pdf?id=B8II-BEdx9'
 authors: <strong>Yi Wang</strong>, Ying-Cong Chen, Xin Tao, Jiaya Jia
-code:
-supp:
+code: 'https://github.com/shepnerd/blindinpainting_vcnet'
+supp: ''
 slides:
 video:
 bib: '@inproceedings{wang2020vcnet,
