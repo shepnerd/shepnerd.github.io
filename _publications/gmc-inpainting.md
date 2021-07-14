@@ -6,7 +6,12 @@ excerpt: 'This paper gives a multiple-branch generative net for generative inpai
 date: 2018-01-01
 venue: 'NeurIPS'
 paperurl: 'http://papers.nips.cc/paper/7316-image-inpainting-via-generative-multi-column-convolutional-neural-networks.pdf'
-citation: '@inproceedings{wang2018image,
+authors: <strong>Yi Wang</strong>, Xin Tao, Xiaojuan Qi, Xiaoyong Shen, Jiaya Jia
+code:
+supp:
+slides:
+video:
+bib: '@inproceedings{wang2018image,
   title={Image inpainting via generative multi-column convolutional neural networks},
   author={Wang, Yi and Tao, Xin and Qi, Xiaojuan and Shen, Xiaoyong and Jia, Jiaya},
   booktitle={Advances in Neural Information Processing Systems},

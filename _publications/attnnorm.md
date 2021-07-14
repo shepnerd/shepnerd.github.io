@@ -6,7 +6,12 @@ excerpt: 'This paper gives a first normalization-based long-range characterizati
 date: 2020-01-01
 venue: 'CVPR'
 paperurl: 'https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Attentive_Normalization_for_Conditional_Image_Generation_CVPR_2020_paper.pdf'
-citation: '@inproceedings{wang2020attentive,
+authors: <strong>Yi Wang</strong>, Ying-Cong Chen, Xiangyu Zhang, Jian Sun, Jiaya Jia
+code:
+supp:
+slides:
+video:
+bib: '@inproceedings{wang2020attentive,
   title={Attentive normalization for conditional image generation},
   author={Wang, Yi and Chen, Ying-Cong and Zhang, Xiangyu and Sun, Jian and Jia, Jiaya},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},

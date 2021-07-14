@@ -6,7 +6,12 @@ excerpt: 'This paper gives a first relatively generalized blind-inpainting metho
 date: 2020-01-01
 venue: 'ECCV'
 paperurl: 'https://openreview.net/pdf?id=B8II-BEdx9'
-citation: '@inproceedings{wang2020vcnet,
+authors: <strong>Yi Wang</strong>, Ying-Cong Chen, Xin Tao, Jiaya Jia
+code:
+supp:
+slides:
+video:
+bib: '@inproceedings{wang2020vcnet,
   title={VCNet: a robust approach to blind image inpainting},
   author={Wang, Yi and Chen, Ying-Cong and Tao, Xin and Jia, Jiaya},
   booktitle={ECCV},

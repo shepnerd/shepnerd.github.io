@@ -6,7 +6,12 @@ excerpt: 'This paper gives a method to detect objects using low-resolution inste
 date: 2021-01-01
 venue: 'CVPR'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2021/papers/Qi_Multi-Scale_Aligned_Distillation_for_Low-Resolution_Detection_CVPR_2021_paper.pdf'
-citation: '@inproceedings{qi2021multi,
+authors: Lu Qi*, Jason Kuen*, Jiuxiang Gu, Zhe Lin, <strong>Yi Wang</strong>, Yukang Chen, Yanwei Li, Jiaya Jia
+code:
+supp:
+slides:
+video:
+bib: '@inproceedings{qi2021multi,
   title={Multi-Scale Aligned Distillation for Low-Resolution Detection},
   author={Qi, Lu and Kuen, Jason and Gu, Jiuxiang and Lin, Zhe and Wang, Yi and Chen, Yukang and Li, Yanwei and Jia, Jiaya},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
