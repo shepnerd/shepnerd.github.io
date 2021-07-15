@@ -3,7 +3,7 @@ title: "Image inpainting via generative multi-column convolutional neural networ
 collection: publications
 permalink: /publications/gmc-inpainting
 excerpt: 'This paper gives a multiple-branch generative net for generative inpainting, along with a non-local regularization.'
-date: 2018-01-01
+date: 2018-12-01
 venue: 'NeurIPS'
 paperurl: 'http://papers.nips.cc/paper/7316-image-inpainting-via-generative-multi-column-convolutional-neural-networks.pdf'
 authors: <strong>Yi Wang</strong>, Xin Tao, Xiaojuan Qi, Xiaoyong Shen, Jiaya Jia
