@@ -40,11 +40,11 @@
     </h3>
     
     {% if post.authors %}
-      <p>{{ post.authors }}</p>
+      {{ post.authors }}
     {% endif %}
     
     {% if post.code or post.supp or post.poster or post.slides or post.video or post.bib %}
-      <p>
+      </br>
     {% endif %}
     {% if post.code %}
       <a href="{{ post.code }}">[Code]</a>
@@ -64,10 +64,7 @@
     {% if post.bib %}
       <a href="{{ post.bib }}">[Bib]</a>
     {% endif %}
-    
-    {% if post.code or post.supp or post.poster or post.slides or post.video or post.bib %}
-      </p>
-    {% endif %}
+  
   </li>
   </article>
 </div>
