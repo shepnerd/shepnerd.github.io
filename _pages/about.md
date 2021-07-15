@@ -14,6 +14,6 @@ I did my Ph.D. at CSE of The Chinese University of Hong Kong, supervised by Prof
 
 Selected Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-pub2.html %}
   {% endfor %}</ul>

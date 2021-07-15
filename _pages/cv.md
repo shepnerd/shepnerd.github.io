@@ -33,8 +33,8 @@ Research Experience
 
 Selected Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-pub.html %}
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-pub2.html %}
   {% endfor %}</ul>
   
 Talks
