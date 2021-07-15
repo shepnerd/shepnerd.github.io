@@ -5,6 +5,7 @@ permalink: /publications/attn-norm
 excerpt: 'This paper gives a first normalization-based long-range characterization module for image generation.'
 date: 2020-01-01
 venue: 'CVPR'
+oral: true
 paperurl: 'https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Attentive_Normalization_for_Conditional_Image_Generation_CVPR_2020_paper.pdf'
 authors: <strong>Yi Wang</strong>, Ying-Cong Chen, Xiangyu Zhang, Jian Sun, Jiaya Jia
 code: 'https://github.com/shepnerd/AttenNorm'
