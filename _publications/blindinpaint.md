@@ -20,7 +20,6 @@ bib: '@inproceedings{wang2020vcnet,
   organization={Springer}
 }'
 ---
-This paper gives a first relatively generalized blind-inpainting method.<br/><img src='/images/500x300.png'
-Yi Wang, Ying-Cong Chen, Xin Tao, Jiaya Jia
+This paper gives a first relatively generalized blind-inpainting method.
 
 [Download paper here](https://openreview.net/pdf?id=B8II-BEdx9)

@@ -19,7 +19,6 @@ bib: '@inproceedings{qi2021multi,
   year={2021}
 }'
 ---
-This paper gives a method to detect objects using low-resolution instead of high-resolution image.<br/><img src='/images/500x300.png'
-Lu Qi*, Jason Kuen*, Jiuxiang Gu, Zhe Lin, Yi Wang, Yukang Chen, Yanwei Li, Jiaya Jia
+This paper gives a method to detect objects using low-resolution instead of high-resolution image.
 
 [Download paper here](https://openaccess.thecvf.com/content/CVPR2021/papers/Qi_Multi-Scale_Aligned_Distillation_for_Low-Resolution_Detection_CVPR_2021_paper.pdf)

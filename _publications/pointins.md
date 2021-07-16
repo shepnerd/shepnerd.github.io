@@ -19,7 +19,6 @@ bib: '@article{qi2021pointins,
   publisher={IEEE}
 }'
 ---
-This paper gives a approach to conduct instance segmentation from point-based features.<br/><img src='/images/500x300.png'
-Lu Qi*, Yi Wang*, Yukang Chen, Ying-Cong Chen, Xiangyu Zhang, Jian Sun, Jiaya Jia
+This paper gives a approach to conduct instance segmentation from point-based features.
 
 [Download paper here](https://arxiv.org/abs/2003.06148)

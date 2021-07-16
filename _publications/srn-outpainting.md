@@ -20,6 +20,5 @@ bib: '@inproceedings{wang2019wide,
 }'
 ---
 This paper gives a first GAN-based solution to image outpainting.
-Yi Wang, Xin Tao, Xiaoyong Shen, Jiaya Jia
 
 [Download paper here](http://jiaya.me/papers/imgextrapolation_cvpr19.pdf)

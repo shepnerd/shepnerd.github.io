@@ -20,7 +20,6 @@ bib: '@inproceedings{wang2020attentive,
   year={2020}
 }'
 ---
-This paper gives a first normalization-based long-range characterization module for image generation.<br/><img src='/images/500x300.png'
-Yi Wang, Ying-Cong Chen, Xiangyu Zhang, Jian Sun, Jiaya Jia
+This paper gives a first normalization-based long-range characterization module for image generation.
 
 [Download paper here](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Attentive_Normalization_for_Conditional_Image_Generation_CVPR_2020_paper.pdf)
