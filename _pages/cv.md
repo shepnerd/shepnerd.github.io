@@ -46,7 +46,7 @@ Talks
 Academic Service
 ======
 * Serve as a reviewer in multiple conferences / journals
-	* Conference: CVPR(18,19,20,21), ECCV(18,20), ICCV(19,21), ICLR(22), Siggraph Asia(22)
+	* Conference: CVPR(18, 19, 20, 21), ECCV(18, 20), ICCV(19, 21), ICLR(22), Siggraph Asia(22)
 	* Journals: IJCV, TIP, CVIU, TMM, TCP
 
 Awards & Honors

@@ -9,8 +9,8 @@ paperurl: 'https://openreview.net/pdf?id=B8II-BEdx9'
 authors: <strong>Yi Wang</strong>, Ying-Cong Chen, Xin Tao, Jiaya Jia
 code: 'https://github.com/shepnerd/blindinpainting_vcnet'
 supp: ''
-slides:
-video:
+slides: /files/ECCV2020-yiwang-full-v3.pdf
+video: /files/vcnet-video.mp4
 bib: '@inproceedings{wang2020vcnet,
   title={VCNet: a robust approach to blind image inpainting},
   author={Wang, Yi and Chen, Ying-Cong and Tao, Xin and Jia, Jiaya},
