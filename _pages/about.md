@@ -10,12 +10,12 @@ redirect_from:
 
 Biography
 ======
-I did my Ph.D. at CSE of The Chinese University of Hong Kong, supervised by Prof. [Jiaya Jia](https://jiaya.me/) and Prof. [Liwei Wang](https://lwwangcse.github.io/).  My research interests include computer vision and deep learning, especially image generation and related applications. Before that, I got the M.Sc. degree from Peking University (supervised by Prof. Yuexian Zou).
+I did my Ph.D. at CSE of The Chinese University of Hong Kong, supervised by Prof. [Jiaya Jia](https://jiaya.me/) and Prof. [Liwei Wang](https://lwwangcse.github.io/).  My research interests include computer vision and deep learning, especially **image generation** and **instance-level image understanding**. Before that, I got the M.Sc. degree from Peking University (supervised by Prof. Yuexian Zou).
 
 
 Education
 ======
-* Ph.D. in Computer Vision, The Chinese University of Hong Kong, 2021
+* Ph.D. in Computer Science, The Chinese University of Hong Kong, 2021
 * M.S. in Computer Applied Technology, Peking University, 2017
 * B.S. in Computer Science, Northwest A&F University, 2014
 
@@ -31,6 +31,7 @@ Research Experience
   * Tencent YouTu Lab
   * Duties included: Studying image generation and enhancement
   * Supervisor: Dr. Xin Tao and Dr. Xiaoyong Shen
+
 
 Selected Publications
 ======
