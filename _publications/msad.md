@@ -1,5 +1,5 @@
 ---
-title: "Multi-Scale aligned distillation for low-resolution detection"
+title: "Multi-scale aligned distillation for low-resolution detection"
 collection: publications
 permalink: /publications/msad
 excerpt: 'This paper gives a method to detect objects using low-resolution instead of high-resolution image.'
@@ -12,7 +12,7 @@ supp:
 slides:
 video:
 bib: '@inproceedings{qi2021multi,
-  title={Multi-Scale Aligned Distillation for Low-Resolution Detection},
+  title={Multi-scale Aligned Distillation for Low-Resolution Detection},
   author={Qi, Lu and Kuen, Jason and Gu, Jiuxiang and Lin, Zhe and Wang, Yi and Chen, Yukang and Li, Yanwei and Jia, Jiaya},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   pages={14443--14453},
