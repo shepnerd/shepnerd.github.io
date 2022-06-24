@@ -46,7 +46,7 @@ Research Experience
   * Supervisor: Dr. Xin Tao and Dr. Xiaoyong Shen
 
 
-Selected Publications \[[Google Scholar](https://scholar.google.com/citations?user=Xm2M8UwAAAAJ)\] <sub>* equal contributions, # corresponding author</sup>
+Selected Publications <sub>* equal contributions, # corresponding author</sub>
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-pub2.html %}
