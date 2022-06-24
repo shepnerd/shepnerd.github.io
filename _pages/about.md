@@ -10,11 +10,11 @@ mainfont: Times New Roman
 ---
 Biography
 ======
-I am a Research Scientist at Shanghai AI Laboratory, led by Prof. Yu Qiao, Prof. Limin Wang, and Dr. Yali Wang.
+I am a Research Scientist at [Shanghai AI Laboratory](https://www.shlab.org.cn/), led by Prof. [Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/index.html), Prof. [Limin Wang](https://wanglimin.github.io/), and Dr. [Yali Wang](https://scholar.google.com/citations?user=hD948dkAAAAJ).
 
 I did my Ph.D. at CSE of The Chinese University of Hong Kong, supervised by Prof. [Jiaya Jia](https://jiaya.me/). My research interests include computer vision and deep learning, especially **image generation** and **instance-level image understanding**. Before that, I got the M.Sc. degree from Peking University (supervised by Prof. Yuexian Zou).
 
-We are actively looking for **self-motivated** research interns with experience / interest in **video processing** / **neural arch design** / **self-supervised learning** / **multimodal learning** / **dataset construction**. If you are interested in our video understanding probject or other topics, please [drop me an email](wangyi@pjlab.org.cn).
+We are actively looking for **self-motivated** research interns with experience / interest in **video processing** / **neural arch design** / **self-supervised learning** / **multimodal learning** / **dataset construction** at Shanghai AI Laboratory. If you are interested in our video understanding probject or other topics, please [drop me an email](wangyi@pjlab.org.cn).
 
 Education
 ======
