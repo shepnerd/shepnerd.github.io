@@ -9,8 +9,7 @@ redirect_from:
 
 Biography
 ======
-I did my Ph.D. at CSE of The Chinese University of Hong Kong, supervised by Prof. [Jiaya Jia](https://jiaya.me/) and Prof. [Liwei Wang](https://lwwangcse.github.io/).  My research interests include computer vision and deep learning, especially image generation and related applications. Before that, I got the M.Sc. degree from Peking University (supervised by Prof. Yuexian Zou).
-
+I am currently a Research Scientist at Shanghai AI Laboratory, working on video understanding. I am working closely with Prof. Yu Qiao, Prof. Limin Wang, and Dr. Yali Wang. I did my Ph.D. at CSE of The Chinese University of Hong Kong, supervised by Prof. [Jiaya Jia](https://jiaya.me/) and Prof. [Liwei Wang](https://lwwangcse.github.io/).  My research interests include computer vision and deep learning, especially image generation and related applications. Before that, I got the M.Sc. degree from Peking University (supervised by Prof. Yuexian Zou).
 
 Education
 ======
@@ -21,6 +20,11 @@ Education
 
 Research Experience
 ======
+* 2020.12-2021.06: Research Intern
+  * SmareMore
+  * Duties included: Studying colorization using generative models
+  * Supervisor: Dr. Jiangbo Lu
+
 * 2019.06-2019.12: Research Intern
   * MEGVII Technology
   * Duties included: Studying conditional image generation
@@ -28,7 +32,7 @@ Research Experience
 
 * 2018.07-2019.05: Research Intern
   * Tencent YouTu Lab
-  * Duties included: Studying image generation and enhancement
+  * Duties included: Studying image inpainting and enhancement
   * Supervisor: Dr. Xin Tao and Dr. Xiaoyong Shen
 
 Selected Publications
@@ -46,7 +50,7 @@ Talks
 Academic Service
 ======
 * Serve as a reviewer in multiple conferences / journals
-	* Conference: CVPR(18, 19, 20, 21), ECCV(18, 20), ICCV(19, 21), ICLR(22), Siggraph Asia(22)
+	* Conference: CVPR, ECCV, ICCV, ICLR, NeurIPS, Siggraph Asia
 	* Journals: IJCV, TIP, CVIU, TMM, TCP
 
 Awards & Honors
