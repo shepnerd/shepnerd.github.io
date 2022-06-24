@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yi Wang (王毅)"
   avatar           : "wy3.jpeg"
-  bio              : "Ph.D. The Chinese University of Hong Kong<br/>M.Sc. Peking University"
+  bio              : "Research Scientist@Shanghai AI Laboratory<br/>Ph.D. The Chinese University of Hong Kong<br/>M.Sc. Peking University"
   location         : "Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Xm2M8UwAAAAJ"
-  email            : "yiwang@cse.cuhk.edu.hk"
+  email            : "wangyi@pjlab.org.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
