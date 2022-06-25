@@ -14,8 +14,9 @@ I am a Research Scientist at [Shanghai AI Laboratory](https://www.shlab.org.cn/)
 
 I did my Ph.D. at CSE of The Chinese University of Hong Kong, supervised by Prof. [Jiaya Jia](https://jiaya.me/). My research interests include computer vision and deep learning, especially **image generation** and **instance-level image understanding**. Before that, I got the M.Sc. degree from Peking University (supervised by Prof. Yuexian Zou).
 
-We are actively looking for **self-motivated** research interns with experience / interest in **video processing** / **neural arch design** / **self-supervised learning** / **multimodal learning** / **dataset construction** at Shanghai AI Laboratory. If you are interested in our video understanding probject or other topics, please [drop me an email](mailto:wangyi@pjlab.org.cn).
+We are actively looking for **motivated** research fellows and interns with experience / interest in **video processing** / **neural arch design** / **self-supervised learning** / **multimodal learning** / **dataset construction** at Shanghai AI Laboratory. If you are interested in our video understanding probject or other topics, please [drop me an email](mailto:wangyi@pjlab.org.cn).
 
+<!--
 Education
 ======
 * Ph.D. in Computer Science, The Chinese University of Hong Kong, 2021
@@ -44,19 +45,21 @@ Research Experience
   * Tencent YouTu Lab
   * Duties included: Studying image generation and enhancement
   * Supervisor: Dr. Xin Tao and Dr. Xiaoyong Shen
-
+-->
 
 Selected Publications <sub>\(* equal contrib, # corresponding author\)</sub>
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-pub2.html %}
   {% endfor %}</ul>
-  
+
+<!--
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+-->
   
 Academic Service
 ======
