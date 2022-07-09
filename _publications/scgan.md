@@ -1,7 +1,7 @@
 ---
 title: "Image synthesis via semantic composition"
 collection: publications
-permalink: /publications/Manifold-based-counting
+permalink: /publications/scgan
 excerpt: 'This paper proposes a new semantic image synthesis based on dynamic conv and norm in MoE style.'
 date: 2021-01-01
 venue: 'ICCV'

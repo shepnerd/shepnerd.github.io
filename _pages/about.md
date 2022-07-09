@@ -69,6 +69,7 @@ Academic Service
 
 Awards & Honors
 ======
+* Champion of Room-Across-Room Habitat Challenge@CVPR Embodied AI Workshop, 2022
 * Postgraduate Studentship in CUHK, 2017-2021
 * Beijing/PKU Outstanding Graduate Award, 2017
 * PKU Outstanding Master Thesis Award, 2017

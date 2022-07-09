@@ -1,7 +1,7 @@
 ---
 title: "Towards implicit text-guided 3D shape generation"
 collection: publications
-permalink: /publications/mat-inpainting
+permalink: /publications/3dgen-text
 excerpt: 'This paper proposes a new conditional 3D shape generation using IMLE and practical 3D shape FID and inception score.'
 date: 2022-01-01
 venue: 'CVPR'
