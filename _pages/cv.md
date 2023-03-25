@@ -51,10 +51,14 @@ Academic Service
 ======
 * Serve as a reviewer in multiple conferences / journals
 	* Conference: CVPR, ECCV, ICCV, ICLR, NeurIPS, Siggraph Asia
-	* Journals: IJCV, TIP, CVIU, TMM, TCP
+	* Journals: TPAMI, IJCV, TIP, CVIU, TMM, TCP
 
 Awards & Honors
 ======
+* Champions of FHP, NLQ, STOIA, SCOD, and MQ Challenges@ECCV Ego4D Workshop, 2022 \[[Technical Report](https://arxiv.org/abs/2211.09529)\] \[[Code](https://github.com/OpenGVLab/ego4d-eccv2022-solutions)\] \[[Slide](https://github.com/OpenGVLab/ego4d-eccv2022-solutions/blob/main/assets/VideoIntern_Ego4D.pdf)\]
+* Champion of Room-Across-Room Habitat VLN Challenge@CVPR Embodied AI Workshop, 2022 \[[Technical Report]()\] \[[Code](https://github.com/OpenGVLab/InternVideo/tree/main/Downstream/Visual-Language-Navigation)\]
+* Champions of REVERIE VLN Challenges in CSIG, 2022 \[[Technical Report]()\]
+* Champion of 2nd COVID-19 Competition@ECCV AIMIA workshop, 2022 \[[Technical Report]()\]
 * Postgraduate Studentship in CUHK, 2017-2021
 * Beijing/PKU Outstanding Graduate Award, 2017
 * PKU Outstanding Master Thesis Award, 2017
