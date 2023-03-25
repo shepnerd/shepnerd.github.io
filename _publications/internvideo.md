@@ -6,7 +6,7 @@ excerpt: 'We present general video foundation models, InternVideo, by taking adv
 date: 2022-12-06
 venue: 'Technical Report'
 paperurl: 'https://arxiv.org/pdf/2212.03191.pdf'
-authors: <strong>Yi Wang</strong>, Kunchang Li, Yizhuo Li, Yinan He, Bingkun Huang, Zhiyu Zhao, Hongjie Zhang, Jilan Xu, Yi Liu, Zun Wang, Sen Xing, Guo Chen, Junting Pan, Jiashuo Yu, Yali Wang, Limin Wang, Yu Qiao
+authors: <strong>Yi Wang</strong>*, Kunchang Li*, Yizhuo Li*, Yinan He*, Bingkun Huang*, Zhiyu Zhao*, Hongjie Zhang*, Jilan Xu, Yi Liu, Zun Wang, Sen Xing, Guo Chen, Junting Pan, Jiashuo Yu, Yali Wang*, Limin Wang*, Yu Qiao
 code: 'https://github.com/OpenGVLab/InternVideo'
 supp: ''
 slides:
