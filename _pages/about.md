@@ -10,9 +10,9 @@ mainfont: Times New Roman
 ---
 Biography
 ======
-I am a Research Scientist at [Shanghai AI Laboratory](https://www.shlab.org.cn/), led by Prof. [Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/index.html), Prof. [Limin Wang](https://wanglimin.github.io/), and Dr. [Yali Wang](https://scholar.google.com/citations?user=hD948dkAAAAJ).
+I am a Research Scientist at [Shanghai AI Laboratory](https://www.shlab.org.cn/), led by Prof. [Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/index.html), Prof. [Limin Wang](https://wanglimin.github.io/), and Dr. [Yali Wang](https://scholar.google.com/citations?user=hD948dkAAAAJ). We are working on video understanding, foundation models, and related topics.
 
-I did my Ph.D. at CSE of The Chinese University of Hong Kong, supervised by Prof. [Jiaya Jia](https://jiaya.me/). My research interests include computer vision and deep learning, especially **image generation** and **instance-level image understanding**. Before that, I got the M.Sc. degree from Peking University (supervised by Prof. Yuexian Zou).
+I did my Ph.D. at CSE of The Chinese University of Hong Kong, supervised by Prof. [Jiaya Jia](https://jiaya.me/) and Prof. [Liwei Wang](https://lwwangcse.github.io/). My research interests include computer vision and deep learning, especially **image generation** and **instance-level image understanding**. Before that, I got the M.Sc. degree from Peking University (supervised by Prof. Yuexian Zou).
 
 We are actively looking for **motivated** research fellows and interns with experience / interest in **video processing** / **neural arch design** / **self-supervised learning** / **multimodal learning** / **dataset construction** at Shanghai AI Laboratory. If you are interested in our video understanding project or other topics, please [drop me an email](mailto:wangyi@pjlab.org.cn).
 
@@ -65,11 +65,14 @@ Academic Service
 ======
 * Serve as a reviewer in multiple conferences / journals
 	* Conference: CVPR, ECCV, ICCV, ICLR, NeurIPS, Siggraph Asia
-	* Journals: IJCV, TIP, CVIU, TMM, TCP
+	* Journals: TPAMI, IJCV, TIP, CVIU, TMM, TCP
 
 Awards & Honors
 ======
-* Champion of Room-Across-Room Habitat Challenge@CVPR Embodied AI Workshop, 2022
+* Champions of FHP, NLQ, STOIA, SCOD, and MQ Challenges@ECCV Ego4D Workshop, 2022 \[[Technical Report](https://arxiv.org/abs/2211.09529)\] \[[Code](https://github.com/OpenGVLab/ego4d-eccv2022-solutions)\] \[[Slide](https://github.com/OpenGVLab/ego4d-eccv2022-solutions/blob/main/assets/VideoIntern_Ego4D.pdf)\]
+* Champion of Room-Across-Room Habitat VLN Challenge@CVPR Embodied AI Workshop, 2022 \[[Technical Report]()\] \[[Code](https://github.com/OpenGVLab/InternVideo/tree/main/Downstream/Visual-Language-Navigation)\]
+* Champions of REVERIE VLN Challenges in CSIG, 2022 \[[Technical Report]()\]
+* Champion of 2nd COVID-19 Competition@ECCV AIMIA workshop, 2022 \[[Technical Report]()\]
 * Postgraduate Studentship in CUHK, 2017-2021
 * Beijing/PKU Outstanding Graduate Award, 2017
 * PKU Outstanding Master Thesis Award, 2017
